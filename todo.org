@@ -1,14 +1,14 @@
 * Natal 2014
-** dados do catalogo
-** template jekyll
-** background igual ao catalogo físico
-** suprimir seções não implementadas
-** quadro dourado/branco
-** título
-** detalhe e preço
-** Mensagem inicial
-** mensagem final
+** TODO dados do catalogo
+** TODO background igual ao catalogo físico
+** TODO quadro dourado/branco
+** TODO título
+** TODO detalhe e preço
+** TODO Mensagem inicial
+** TODO mensagem final
+** DONE template jekyll
+** DONE suprimir seções não implementadas
 ** capa
-*** gijokinha
-*** logo gijoka
-*** título
+*** TODO gijokinha
+*** TODO [#B] logo gijoka
+*** TODO título

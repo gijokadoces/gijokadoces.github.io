@@ -1,0 +1,20 @@
+[
+	{
+		"title": "Camafeus",
+		"photo": "images/natal2014/camafeus.jpg",
+		"description": "Camafeus sabor morango",
+		"price": "R$2,00 a unidade"
+	},
+	{
+		"title": "Strogonof de Chocolate",
+		"photo": "images/natal2014/strogonof_chocolate.jpg",
+		"description": "Strogonof de chocolate e nozes. Serve 15 pessoas.",
+		"price": "R$50,00"
+	},
+	{
+		"title": "Tortas Doces",
+		"photo": "images/natal2014/torta_doce.jpg",
+		"description": "Tortas sabores limão com merengue, maracujá, morango e chocolate. 16 pedaços.",
+		"price": "R$40,00"
+	}
+]

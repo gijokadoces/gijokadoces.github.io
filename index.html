@@ -4,82 +4,41 @@ pageTitle: Gijoka Doces - Atelie de Gostosuras
 ---
 <ul id="menu">
   <li data-menuanchor="home"><a href="#home">Home</a></li>
-  <li data-menuanchor="atelier"><a href="#atelier">Nosso Atelier</a></li>
-  <li data-menuanchor="natal2013"><a href="#natal2013">Natal 2013</a></li>
-  <li data-menuanchor="gostosuras"><a href="#gostosuras">Nossas Gostosuras</a></li>
-  <li data-menuanchor="contato"><a href="#contato">Contato</a></li>
+  <!-- <li data-menuanchor="atelier"><a href="#atelier">Nosso Atelier</a></li> -->
+  <li data-menuanchor="natal2014"><a href="#natal2014">Natal 2014</a></li>
+  <!-- <li data-menuanchor="gostosuras"><a href="#gostosuras">Nossas Gostosuras</a></li> -->
 </ul>
 
 <div class="section active" data-anchor="home">
-  <h1>Home, sweet home!</h1>
-	<p>Esta se&ccedil;&atilde;o ter&aacute; os destaques do site. &Eacute; como uma vitrine da sua loja: O produto do m&ecirc;s, novidades, not&iacute;cias, etc.</p>
-	<ul class="posts">
-		{% for post in site.posts %}
-    <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
-		{% endfor %}
-	</ul>
+  Colocar capa natal aqui<br />
+  <div class="contact">
+	<p>
+	  Gijoka Doces<br />
+	  Design de Gostosuras<br />
+	</p>
+  </div>
+  <div class="contact">
+	<p>
+	  <a href="mailto:contato@gijokadoces.com.br">contato@gijokadoces.com.br</a><br />
+	  <a href="https://www.facebook.com/GijokaDoces">www.facebook.com/GijokaDoces</a><br />
+	</p>
+  </div>
 </div>
+<div class="section" data-anchor="natal2014">
+  <div class="slide active">
+	<div class="wrap">
+	  <h1>Natal 2014</h1>
+	  <p>Texto apresentação de natal</p>
+	  <p><small>clique na seta &agrave; direta ou use a seta do teclado.</small></p>
+	</div>
+  </div>
 
-<div class="section" data-anchor="atelier">
-	<h1>Nosso Atelier</h1>
-	<p>Nesta se&ccedil;&atilde;o est&atilde;o algumas informa&ccedil;&otilde;es institucionais. Algo como a hist&oacute;ria da Gijoka Doces, apresenta&ccedil;&atilde;o da empresa, etc.</p>
-</div>
-
-<div class="section" data-anchor="natal2013">
-	<div class="slide active">
-		<div class="wrap">
-			<h1>Gostosuras de Natal</h1>
-			<p><small>clique na seta &agrave; direta ou use a seta do teclado.</small></p>
-		</div>
-	</div>
-	<div class="slide">
-		<p>Este &eacute; o card&aacute;pio <strong>em destaque</strong>.</p>
-	</div>
-	<div class="slide">
-		<p>Especificamente, o card&aacute;pio de natal est&aacute; em destaque devido a proximidade do evento.</p>
-	</div>
-	<div class="slide">
-		<p>Lembrabdo que cada slide &eacute; de um produto. Cada slide cent&eacute;m o nome, a descri&ccedil;&atilde;o, o pre&ccedil;o e uma foto.</p>
-	</div>
-	<div class="slide">
-		<p>Os slides est&atilde;o organizados por categoria para facilitar a busca por um produto.</p>
-	</div>
-</div>
-
-<div class="section" data-anchor="gostosuras">
-	<div class="slide active">
-		<div class="wrap">
-			<h1>GOSTOSURAS</h1>
-			<p><small>clique na seta &agrave; direta ou use a seta do teclado.</small></p>
-		</div>
-	</div>
-	<div class="slide">
-		<p>Este &eacute; o card&aacute;pio online dos produtos feitos em qualquer &eacute;poca.</p>
-	</div>
-	<div class="slide">
-		<p>Este card&aacute;pio vai ficar fixo no site.</p>
-	</div>
-	<div class="slide">
-		<p>Lembrabdo que cada slide &eacute; de um produto. Cada slide cent&eacute;m o nome, a descri&ccedil;&atilde;o, o pre&ccedil;o e uma foto.</p>
-	</div>
-	<div class="slide">
-		<p>Os slides est&atilde;o organizados por categoria para facilitar a busca por um produto.</p>
-	</div>
-</div>
-
-<div class="section" data-archor="contato">
-	<div class="footer">
-		<div class="contact">
-			<p>
-				Gijoka Doces<br />
-				Design de Gostosuras<br />
-			</p>
-		</div>
-		<div class="contact">
-			<p>
-				<a href="mailto:contato@gijokadoces.com.br">contato@gijokadoces.com.br</a><br />
-				<a href="https://www.facebook.com/GijokaDoces">www.facebook.com/GijokaDoces</a><br />
-			</p>
-		</div>
-	</div>
+  {% for product in site.data.natal2014 %}
+  <div class="slide">
+	<div id="title">{{ product.title }}</div><br />
+	<div id="photo">{{ product.photo }}</div><br />
+	<div id="description">{{ product.description }}</div><br />
+	<div id="price">{{ product.price }}</div><br />
+  </div>
+  {% endfor %}
 </div>
