@@ -14,7 +14,61 @@
 	{
 		"title": "Tortas Doces",
 		"photo": "images/natal2014/torta_doce.jpg",
-		"description": "Tortas sabores limão com merengue, maracujá, morango e chocolate. 16 pedaços.",
+		"description": "Tortas sabores limão com merengue, maracujá, morango e chocolate. Serve 16 pedaços.",
 		"price": "R$40,00"
+	},
+	{
+		"title": "Manjar",
+		"photo": "images/natal2014/manjar.jpg",
+		"description": "Manjar de coco com ameixa. Serve 12 pessoas.",
+		"price": "R$20,00"
+	},
+	{
+		"title": "Floresta Negra",
+		"photo": "images/natal2014/floresta_negra.jpg",
+		"description": "Mousse de chocolate coberto de chantily e cerejas. Serve 10 pessoas.",
+		"price": "R$40,00"
+	},
+	{
+		"title": "Pavê",
+		"photo": "images/natal2014/pave.jpg",
+		"description": "Pavê sabores brigadeiro, frutas, chocolate, bombom, cookies com nutela, amendoin, floresta negra. Serve 10 pessoas.",
+		"price": "R$40,00"
+	},
+	{
+		"title": "Brigadeiro",
+		"photo": "images/natal2014/brigadeiro.jpg",
+		"description": "Caixa de brigadeiros e beijinhos açucarados. Caixa com 48 docinhos.",
+		"price": "R$30,00"
+	},
+	{
+		"title": "Torta Holandesa",
+		"photo": "images/natal2014/torta_holandesa.jpg",
+		"description": "Serve 16 pedaços.",
+		"price": "R$40,00"
+	},
+	{
+		"title": "Bolo de Mel",
+		"photo": "images/natal2014/bolo_mel.jpg",
+		"description": "Bolo de mel recheado com doce de leite. 1 KG.",
+		"price": "R$30,00"
+	},
+	{
+		"title": "Pudim ou Brigadeirão",
+		"photo": "images/natal2014/pudim_brigadeirao.jpg",
+		"description": "Serve 12 fatias.",
+		"price": "R$35,00"
+	},
+	{
+		"title": "Charlote",
+		"photo": "images/natal2014/charlote.jpg",
+		"description": "Charlote sabores pessêgo, abacaxi, morango, chocolate. Serve 18 pedaços.",
+		"price": "R$60,00"
+	},
+	{
+		"title": "Mousse",
+		"photo": "images/natal2014/mousse.jpg",
+		"description": "Mousse sabores chocolate, abacaxi, morango, maracujá e limão. Serve 8 Pedaços.",
+		"price": "R$30,00"
 	}
 ]
