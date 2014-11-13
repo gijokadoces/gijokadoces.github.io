@@ -3,8 +3,8 @@
 ** TODO quadro dourado/branco
 ** TODO título
 ** TODO detalhe e preço
-** TODO Mensagem inicial
 ** TODO mensagem final
+** DONE Mensagem inicial
 ** DONE dados do catalogo
 ** DONE template jekyll
 ** DONE suprimir seções não implementadas
