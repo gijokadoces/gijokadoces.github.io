@@ -1,1 +1,14 @@
-* BUGS
+* Natal 2014
+** dados do catalogo
+** template jekyll
+** background igual ao catalogo físico
+** suprimir seções não implementadas
+** quadro dourado/branco
+** título
+** detalhe e preço
+** Mensagem inicial
+** mensagem final
+** capa
+*** gijokinha
+*** logo gijoka
+*** título
