@@ -404,3 +404,26 @@ p{
 	box-shadow: 0 1px 0 rgba(255, 255, 255, 0.1);
 	padding: 0 0 5px 0;
 }
+
+/*****************************************************************************/
+/*
+/* Fonts
+/*
+/*****************************************************************************/
+
+@font-face {
+    font-family: 'PWGroovy';
+    src: url('../fonts/PWGroovy.ttf');
+}
+@font-face {
+    font-family: 'Znikomit';
+    src: url('../fonts/Znikomit.otf');
+}
+
+.pwgroovy {
+	font-family: PWGroovy;
+}
+
+.znikomit {
+	font-family: Znikomit;
+}

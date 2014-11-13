@@ -4,11 +4,14 @@
 ** TODO título
 ** TODO detalhe e preço
 ** TODO mensagem final
-** DONE Mensagem inicial
-** DONE dados do catalogo
-** DONE template jekyll
-** DONE suprimir seções não implementadas
 ** capa
 *** TODO gijokinha
 *** TODO [#B] logo gijoka
 *** TODO título
+** Fonts
+*** TODO Estudar nova fonte
+*** DONE Importar fonts originais (logo)
+** DONE Mensagem inicial
+** DONE dados do catalogo
+** DONE template jekyll
+** DONE suprimir seções não implementadas
