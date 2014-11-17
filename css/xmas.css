@@ -1,9 +1,17 @@
+div#product {
+	background-image: url('../images/xmas/background_1024x768.jpg');
+}
 div#title {
-  color: #abc;
+	color: #663300;
+	background-color: #CCA300;
 }
 div#photo {
 }
 div#description {
+	color: #FFFFFF;
+	background-color: #CCA300;
 }
 div#price {
+	color: #FFFFFF;
+	background-color: #CCA300;
 }
