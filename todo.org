@@ -1,13 +1,14 @@
 * Natal 2014
-** TODO título
-** TODO detalhe e preço
 ** TODO mensagem final
+** TODO fotos dos doces
+** TODO Arrumar título da mensagem de natal
 ** Fonts
 *** TODO Estudar nova fonte
 *** DONE Importar fonts originais (logo)
 ** Posicionamento
 *** TODO Testar posicionamento titulo, descrição etc utilizando relative position - http://learnlayout.com/clear.html
-*** https://www.arclab.com/en/webformbuilder/how-to-cross-browser-style-hr-horizontal-rule-line-using-css.html
+*** TODO https://www.arclab.com/en/webformbuilder/how-to-cross-browser-style-hr-horizontal-rule-line-using-css.html
+*** TODO Adaptar par vários layout - responsividade
 ** DONE capa
 *** DONE título
 *** DONE gijokinha
@@ -16,6 +17,8 @@
 ** DONE background catálogo
 ** DONE quadro dourado/branco
 ** DONE Mensagem inicial
+** DONE título
+** DONE detalhe e preço
 ** DONE dados do catalogo
 ** DONE template jekyll
 ** DONE suprimir seções não implementadas
