@@ -1,6 +1,4 @@
 * Natal 2014
-** TODO background igual ao catalogo físico
-** TODO quadro dourado/branco
 ** TODO título
 ** TODO detalhe e preço
 ** TODO mensagem final
@@ -14,6 +12,8 @@
 ** Posicionamento
 *** TODO Testar posicionamento titulo, descrição etc utilizando relative position - http://learnlayout.com/clear.html
 *** https://www.arclab.com/en/webformbuilder/how-to-cross-browser-style-hr-horizontal-rule-line-using-css.html
+** DONE background catálogo
+** DONE quadro dourado/branco
 ** DONE Mensagem inicial
 ** DONE dados do catalogo
 ** DONE template jekyll

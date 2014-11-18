@@ -1,3 +1,39 @@
+/********/
+/* Capa */
+/********/
+div#capa {
+	background-image: url('../images/xmas/background_1024x768.jpg');
+}
+
+h1.capa-titulo {
+	color: #CCA300;
+	font-family: PWGroovy;
+}
+
+div#capa-mensagem {
+	color: #663300;
+	background-color: #FFFFFF;
+	font-family: PWGroovy;
+	font-size: small;
+	border: 5px solid #CCA300;
+	padding: 1px;
+
+	-webkit-border-radius: 25px 100px 25px 100px;
+	-moz-border-radius: 25px 100px 25px 100px;
+	border-radius: 25px 100px 25px 100px;
+}
+
+p#capa-footer {
+	color: #FFFFFF;
+	background-color: #CCA300;
+	font-family: PWGroovy;
+	font-size: large;
+}
+
+/************/
+/* Produtos */
+/************/
+
 div#product {
 	background-image: url('../images/xmas/background_1024x768.jpg');
 }
