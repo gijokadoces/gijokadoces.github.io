@@ -62,11 +62,11 @@ pageTitle: Gijoka Doces - Atelie de Gostosuras
   <div id="product" class="slide">
 	<div id="title">
 	  {{ product.title }}<br />
-	  <hr /><br />
+	  <hr />
 	</div><br />
-	<div id="photo"><img src="http://lorempixel.com/400/200/food/" alt="{{ product.photo }}" /></div><br />
+	<div id="photo"><img id="imgProduct" src="http://lorempixel.com/600/400/food/" alt="{{ product.photo }}" class="round" /></div><br />
 	<div id="description">{{ product.description }}</div><br />
-	<div id="price">{{ product.price }}</div><br />
+	<div id="price">Somente {{ product.price }}!</div><br />
   </div>
   {% endfor %}
 </div>

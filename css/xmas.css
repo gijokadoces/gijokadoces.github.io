@@ -2,36 +2,66 @@ div#product {
 	background-image: url('../images/xmas/background_1024x768.jpg');
 }
 div#title {
-
 	position: relative;
-	width: 200px;
+	width: 33%;
 	float: right;
-	top: -150px;
+	top: -50px;
 
 	color: #663300;
 	background-color: #CCA300;
+	font-family: PWGroovy;
+	font-size: xx-large;
 }
 
 hr {
     background-color: #FFFFFF;
     color: #FFFFFF;
-    height: 1px;
-	border: none;
-	width: 80%;
+    height: 2px;
+	border: 0 none;
+	width: 100%;
 	text-align: right;
 	margin: 0 0 0 auto;
 }
-div#photo {
+
+.round {
+	border: 5px solid #CCA300;
+	padding: 1px;
+	background-color: #FFFFFF;
+
+	-webkit-border-radius: 25px 100px 25px 100px;
+	-moz-border-radius: 25px 100px 25px 100px;
+	border-radius: 25px 100px 25px 100px;
 }
+
+div#photo {
+	width: 600px;
+	/* height: 450px; */
+	margin-left: 33%;
+	margin-right: 33%;
+}
+
 div#description {
-	width: 500px;
+	position: relative;
+	width: 600px;
 	float: left;
 	color: #FFFFFF;
 	background-color: #CCA300;
+
+	font-family: PWGroovy;
+
+	margin-left: 33%;
+	margin-right: 33%;
+
+	border: 1px;
 }
 div#price {
-	width: 500px;
+	position: relative;
+	width: 33%;
 	float: left;
+	top: 50px;
+
 	color: #FFFFFF;
 	background-color: #CCA300;
+	font-family: PWGroovy;
+	font-size: xx-large;
 }
