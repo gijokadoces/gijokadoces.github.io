@@ -11,6 +11,9 @@
 ** Fonts
 *** TODO Estudar nova fonte
 *** DONE Importar fonts originais (logo)
+** Posicionamento
+*** TODO Testar posicionamento titulo, descrição etc utilizando relative position - http://learnlayout.com/clear.html
+*** https://www.arclab.com/en/webformbuilder/how-to-cross-browser-style-hr-horizontal-rule-line-using-css.html
 ** DONE Mensagem inicial
 ** DONE dados do catalogo
 ** DONE template jekyll

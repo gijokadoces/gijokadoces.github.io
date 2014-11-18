@@ -60,7 +60,10 @@ pageTitle: Gijoka Doces - Atelie de Gostosuras
 
   {% for product in site.data.natal2014 %}
   <div id="product" class="slide">
-	<div id="title">{{ product.title }}</div><br />
+	<div id="title">
+	  {{ product.title }}<br />
+	  <hr /><br />
+	</div><br />
 	<div id="photo"><img src="http://lorempixel.com/400/200/food/" alt="{{ product.photo }}" /></div><br />
 	<div id="description">{{ product.description }}</div><br />
 	<div id="price">{{ product.price }}</div><br />

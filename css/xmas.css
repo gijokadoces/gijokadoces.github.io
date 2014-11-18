@@ -2,16 +2,36 @@ div#product {
 	background-image: url('../images/xmas/background_1024x768.jpg');
 }
 div#title {
+
+	position: relative;
+	width: 200px;
+	float: right;
+	top: -150px;
+
 	color: #663300;
 	background-color: #CCA300;
+}
+
+hr {
+    background-color: #FFFFFF;
+    color: #FFFFFF;
+    height: 1px;
+	border: none;
+	width: 80%;
+	text-align: right;
+	margin: 0 0 0 auto;
 }
 div#photo {
 }
 div#description {
+	width: 500px;
+	float: left;
 	color: #FFFFFF;
 	background-color: #CCA300;
 }
 div#price {
+	width: 500px;
+	float: left;
 	color: #FFFFFF;
 	background-color: #CCA300;
 }
