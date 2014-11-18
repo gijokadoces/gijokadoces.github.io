@@ -2,16 +2,17 @@
 ** TODO título
 ** TODO detalhe e preço
 ** TODO mensagem final
-** capa
-*** TODO gijokinha
-*** TODO [#B] logo gijoka
-*** TODO título
 ** Fonts
 *** TODO Estudar nova fonte
 *** DONE Importar fonts originais (logo)
 ** Posicionamento
 *** TODO Testar posicionamento titulo, descrição etc utilizando relative position - http://learnlayout.com/clear.html
 *** https://www.arclab.com/en/webformbuilder/how-to-cross-browser-style-hr-horizontal-rule-line-using-css.html
+** DONE capa
+*** DONE título
+*** DONE gijokinha
+*** DONE Bordão
+*** DONE Contatos
 ** DONE background catálogo
 ** DONE quadro dourado/branco
 ** DONE Mensagem inicial
