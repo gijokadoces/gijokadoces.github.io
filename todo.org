@@ -9,11 +9,14 @@
 *** TODO Testar posicionamento titulo, descrição etc utilizando relative position - http://learnlayout.com/clear.html
 *** TODO https://www.arclab.com/en/webformbuilder/how-to-cross-browser-style-hr-horizontal-rule-line-using-css.html
 *** TODO Adaptar par vários layout - responsividade
-** DONE capa
-*** DONE título
+** DONE capa/home
+*** TODO Ajustar cor do fundo
+*** TODO título (igual logo do cartão)
+*** TODO Contatos
+**** TODO alinhamento
+**** DONE icones
 *** DONE gijokinha
 *** DONE Bordão
-*** DONE Contatos
 ** DONE background catálogo
 ** DONE quadro dourado/branco
 ** DONE Mensagem inicial
