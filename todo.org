@@ -1,7 +1,4 @@
 * Natal 2014
-** TODO mensagem final
-*** TODO Gijokinha hmmm
-*** DONE Usar a mesma base da mensagem abertura
 ** TODO fotos dos doces
 ** TODO Arrumar título da mensagem de natal
 ** Fonts
@@ -11,6 +8,9 @@
 *** TODO Testar posicionamento titulo, descrição etc utilizando relative position - http://learnlayout.com/clear.html
 *** TODO https://www.arclab.com/en/webformbuilder/how-to-cross-browser-style-hr-horizontal-rule-line-using-css.html
 *** TODO Adaptar par vários layout - responsividade
+** DONE mensagem final
+*** DONE Gijokinha hmmm
+*** DONE Usar a mesma base da mensagem abertura
 ** DONE capa/home
 *** DONE Ajustar cor do fundo
 *** DONE Contatos
