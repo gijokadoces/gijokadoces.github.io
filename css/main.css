@@ -443,14 +443,15 @@ p{
 }
 
 div#home {
-	font-family: PWGroovy;	
+	font-family: PWGroovy;
 }
 
 .mascote {
-
 	height: 300px;
 }
 
 .home-contact {
-
+	text-align: left;
+	margin-left: 33%;
+	margin-right: 33%;
 }

@@ -11,8 +11,8 @@
 *** TODO Adaptar par vários layout - responsividade
 ** TODO capa/home
 *** TODO Ajustar cor do fundo
-*** TODO Contatos
-**** TODO alinhamento
+*** DONE Contatos
+**** DONE alinhamento
 **** DONE icones
 *** DONE título (igual logo do cartão)
 *** DONE gijokinha
