@@ -1,5 +1,7 @@
 * Natal 2014
 ** TODO mensagem final
+*** TODO Gijokinha hmmm
+*** DONE Usar a mesma base da mensagem abertura
 ** TODO fotos dos doces
 ** TODO Arrumar título da mensagem de natal
 ** Fonts
