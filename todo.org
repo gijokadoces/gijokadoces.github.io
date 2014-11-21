@@ -1,6 +1,5 @@
 * Natal 2014
 ** TODO fotos dos doces
-** TODO Arrumar título da mensagem de natal
 ** Fonts
 *** TODO Estudar nova fonte
 *** DONE Importar fonts originais (logo)
