@@ -419,6 +419,10 @@ p{
     src: url('../fonts/PWGroovy.ttf');
 }
 @font-face {
+    font-family: 'PWGroovy_pt-br';
+    src: url('../fonts/PWGroovy_pt-br.ttf');
+}
+@font-face {
     font-family: 'Znikomit';
     src: url('../fonts/Znikomit.otf');
 }
@@ -443,7 +447,8 @@ p{
 }
 
 div#home {
-	font-family: PWGroovy;
+	/* font-family: PWGroovy; */
+	font-family: PWGroovy_pt-br;
 }
 
 .mascote {

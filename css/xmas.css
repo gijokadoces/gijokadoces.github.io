@@ -13,7 +13,8 @@ h1.capa-titulo {
 div#capa-mensagem {
 	color: #663300;
 	background-color: #FFFFFF;
-	font-family: PWGroovy;
+	/* font-family: PWGroovy; */
+	font-family: PWGroovy_pt-br;
 	font-size: small;
 	border: 5px solid #CCA300;
 	padding: 1px;
@@ -26,7 +27,8 @@ div#capa-mensagem {
 div#mensagem-final-texto {
 	color: #663300;
 	background-color: #FFFFFF;
-	font-family: PWGroovy;
+	/* font-family: PWGroovy; */
+	font-family: PWGroovy_pt-br;
 	font-size: small;
 	border: 5px solid #CCA300;
 	padding: 1px;
@@ -43,7 +45,8 @@ div#mensagem-final {
 p#capa-footer {
 	color: #FFFFFF;
 	background-color: #CCA300;
-	font-family: PWGroovy;
+	/* font-family: PWGroovy; */
+	font-family: PWGroovy_pt-br;
 	font-size: large;
 }
 
@@ -62,7 +65,8 @@ div#title {
 
 	color: #663300;
 	background-color: #CCA300;
-	font-family: PWGroovy;
+	/* font-family: PWGroovy; */
+	font-family: PWGroovy_pt-br;
 	font-size: xx-large;
 }
 
@@ -100,7 +104,8 @@ div#description {
 	color: #FFFFFF;
 	background-color: #CCA300;
 
-	font-family: PWGroovy;
+	/* font-family: PWGroovy; */
+	font-family: PWGroovy_pt-br;
 
 	margin-left: 33%;
 	margin-right: 33%;
@@ -115,6 +120,7 @@ div#price {
 
 	color: #FFFFFF;
 	background-color: #CCA300;
-	font-family: PWGroovy;
+	/* font-family: PWGroovy; */
+	font-family: PWGroovy_pt-br;
 	font-size: xx-large;
 }
