@@ -19,19 +19,19 @@
 	},
 	{
 		"title": "Manjar",
-		"photo": "images/natal2014/manjar.jpg",
+		"photo": "images/natal2014/compre_ja.png",
 		"description": "Manjar de coco com ameixa. Serve 12 pessoas.",
 		"price": "R$20,00"
 	},
 	{
 		"title": "Floresta Negra",
-		"photo": "images/natal2014/floresta_negra.jpg",
+		"photo": "images/natal2014/compre_ja.png",
 		"description": "Mousse de chocolate coberto de chantily e cerejas. Serve 10 pessoas.",
 		"price": "R$40,00"
 	},
 	{
 		"title": "Pavê",
-		"photo": "images/natal2014/pave.jpg",
+		"photo": "images/natal2014/compre_ja.png",
 		"description": "Pavê sabores brigadeiro, frutas, chocolate, bombom, cookies com nutela, amendoin, floresta negra. Serve 10 pessoas.",
 		"price": "R$40,00"
 	},
@@ -49,7 +49,7 @@
 	},
 	{
 		"title": "Bolo de Mel",
-		"photo": "images/natal2014/bolo_mel.jpg",
+		"photo": "images/natal2014/compre_ja.png",
 		"description": "Bolo de mel recheado com doce de leite. 1 KG.",
 		"price": "R$30,00"
 	},
@@ -67,7 +67,7 @@
 	},
 	{
 		"title": "Mousse",
-		"photo": "images/natal2014/mousse.jpg",
+		"photo": "images/natal2014/compre_ja.png",
 		"description": "Mousse sabores chocolate, abacaxi, morango, maracujá e limão. Serve 8 Pedaços.",
 		"price": "R$30,00"
 	}
