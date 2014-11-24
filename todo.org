@@ -1,9 +1,10 @@
 * Natal 2014
-** TODO fotos dos doces
+** TODO Foto 404 doces com a gijokinha
 ** Posicionamento
 *** TODO Testar posicionamento titulo, descrição etc utilizando relative position - http://learnlayout.com/clear.html
 *** TODO https://www.arclab.com/en/webformbuilder/how-to-cross-browser-style-hr-horizontal-rule-line-using-css.html
 *** TODO Adaptar par vários layout - responsividade
+** DONE fotos dos doces
 ** DONE Favicon
 ** DONE Fonts
 *** DONE Estudar nova fonte
