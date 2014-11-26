@@ -1,7 +1,47 @@
+/* @media screen and (height: 1024px) and (width: 768px) { */
+/* 	.xmas-background { */
+/* 		background-image: url('../images/xmas/background_1024x768.jpg'); */
+/* 	} */
+/* } */
+
+/* @media screen and (height: 1024px) and (width: 768px) { */
+/* 	.xmas-background { */
+/* 		background-image: url('../images/xmas/background_1024x768.jpg'); */
+/* 	} */
+/* } */
+
+/* @media screen and (height: 1280px) and (width: 960px) { */
+/* 	.xmas-background { */
+/* 		background-image: url('../images/xmas/background_1280x960.jpg'); */
+/* 	} */
+/* } */
+
+/* @media screen and (height: 1600px) and (width: 1200px) { */
+/* 	.xmas-background { */
+/* 		background-image: url('../images/xmas/background_1600x1200.jpg'); */
+/* 	} */
+/* } */
+
+/* @media screen and (height: 1680px) and (width: 1050px) { */
+/* 	.xmas-background { */
+/* 		background-image: url('../images/xmas/background_1680x1050.jpg'); */
+/* 	} */
+/* } */
+
+/* @media screen and (height: 2560px) and (width: 1600px) { */
+/* 	.xmas-background { */
+/* 		background-image: url('../images/xmas/background_2560x1600.jpg'); */
+/* 	} */
+/* } */
+
+
 /********/
 /* Capa */
 /********/
-div#capa {
+/* div#capa { */
+/* 	background-image: url('../images/xmas/background_1024x768.jpg'); */
+/* } */
+.xmas-background {
 	background-image: url('../images/xmas/background_1024x768.jpg');
 }
 
@@ -36,9 +76,9 @@ div#mensagem-final-texto {
 	border-radius: 25px 100px 25px 100px;
 }
 
-div#mensagem-final {
-	background-image: url('../images/xmas/background_1024x768.jpg');
-}
+/* div#mensagem-final { */
+/* 	background-image: url('../images/xmas/background_1024x768.jpg'); */
+/* } */
 
 p#capa-footer {
 	color: #FFFFFF;
@@ -51,9 +91,9 @@ p#capa-footer {
 /* Produtos */
 /************/
 
-div#product {
-	background-image: url('../images/xmas/background_1024x768.jpg');
-}
+/* div#product { */
+/* 	background-image: url('../images/xmas/background_1024x768.jpg'); */
+/* } */
 div#title {
 	position: relative;
 	width: 33%;
