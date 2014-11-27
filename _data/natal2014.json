@@ -1,19 +1,19 @@
 [
 	{
 		"title": "Camafeus",
-		"photo": "images/natal2014/camafeus.jpg",
+		"photo": "images/natal2014/camafeus_600x400.jpg",
 		"description": "Camafeus sabor morango",
 		"price": "R$2,00 a unidade"
 	},
 	{
 		"title": "Strogonof de Chocolate",
-		"photo": "images/natal2014/strogonof_chocolate.jpg",
+		"photo": "images/natal2014/strogonof_chocolate_600x400.jpg",
 		"description": "Strogonof de chocolate e nozes. Serve 15 pessoas.",
 		"price": "R$50,00"
 	},
 	{
 		"title": "Tortas Doces",
-		"photo": "images/natal2014/torta_doce.jpg",
+		"photo": "images/natal2014/torta_doce_600x400.jpg",
 		"description": "Tortas sabores limão com merengue, maracujá, morango e chocolate. Serve 16 pedaços.",
 		"price": "R$40,00"
 	},
@@ -37,13 +37,13 @@
 	},
 	{
 		"title": "Brigadeiro",
-		"photo": "images/natal2014/brigadeiro.jpg",
+		"photo": "images/natal2014/brigadeiro_600x400.jpg",
 		"description": "Caixa de brigadeiros e beijinhos açucarados. Caixa com 48 docinhos.",
 		"price": "R$30,00"
 	},
 	{
 		"title": "Torta Holandesa",
-		"photo": "images/natal2014/torta_holandesa.jpg",
+		"photo": "images/natal2014/torta_holandesa_600x400.jpg",
 		"description": "Serve 16 pedaços.",
 		"price": "R$40,00"
 	},
@@ -55,13 +55,13 @@
 	},
 	{
 		"title": "Pudim ou Brigadeirão",
-		"photo": "images/natal2014/pudim_brigadeirao.jpg",
+		"photo": "images/natal2014/pudim_brigadeirao_600x400.jpg",
 		"description": "Serve 12 fatias.",
 		"price": "R$35,00"
 	},
 	{
 		"title": "Charlote",
-		"photo": "images/natal2014/charlote.jpg",
+		"photo": "images/natal2014/charlote_600x400.jpg",
 		"description": "Charlote sabores pessêgo, abacaxi, morango, chocolate. Serve 18 pedaços.",
 		"price": "R$60,00"
 	},
