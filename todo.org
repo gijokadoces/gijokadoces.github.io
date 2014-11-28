@@ -3,7 +3,7 @@
 *** TODO Testar posicionamento titulo, descrição etc utilizando relative position - http://learnlayout.com/clear.html
 *** TODO https://www.arclab.com/en/webformbuilder/how-to-cross-browser-style-hr-horizontal-rule-line-using-css.html
 *** TODO Adaptar par vários layout - responsividade
-** TODO Exportar o tamanho da imagem dos doces para 600x400
+** DONE Exportar o tamanho da imagem dos doces para 600x400
 ** TODO Diminuir o tamanho do fundo (catálogo) ou exportar para SVG
 ** DONE Exportar as fotos para um tamanho adequado ao site
 ** DONE Foto 404 doces com a gijokinha
