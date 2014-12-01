@@ -1,49 +1,71 @@
-/* @media screen and (height: 1024px) and (width: 768px) { */
-/* 	.xmas-background { */
-/* 		background-image: url('../images/xmas/background_1024x768.jpg'); */
-/* 	} */
-/* } */
-
-/* @media screen and (height: 1024px) and (width: 768px) { */
-/* 	.xmas-background { */
-/* 		background-image: url('../images/xmas/background_1024x768.jpg'); */
-/* 	} */
-/* } */
-
-/* @media screen and (height: 1280px) and (width: 960px) { */
-/* 	.xmas-background { */
-/* 		background-image: url('../images/xmas/background_1280x960.jpg'); */
-/* 	} */
-/* } */
-
-/* @media screen and (height: 1600px) and (width: 1200px) { */
-/* 	.xmas-background { */
-/* 		background-image: url('../images/xmas/background_1600x1200.jpg'); */
-/* 	} */
-/* } */
-
-/* @media screen and (height: 1680px) and (width: 1050px) { */
-/* 	.xmas-background { */
-/* 		background-image: url('../images/xmas/background_1680x1050.jpg'); */
-/* 	} */
-/* } */
-
-/* @media screen and (height: 2560px) and (width: 1600px) { */
-/* 	.xmas-background { */
-/* 		background-image: url('../images/xmas/background_2560x1600.jpg'); */
-/* 	} */
-/* } */
-
+/* 1024x768 */
+/* 1280x960 */
+/* 1600x1200 */
+/* 1680x1050 */
+/* 2560x1600 */
+@media handheld, only screen and (max-width: 2200px) {
+	.div-test-color {
+		background-color: red;
+	}
+	.xmas-background {
+		background-image: url('../images/xmas/background_1024x768.jpg');
+	}
+}
+@media handheld, only screen and (max-width: 1200px) {
+	.div-test-color {
+		background-color: green;
+	}
+	.xmas-background {
+		background-image: url('../images/xmas/background_1600x1200.jpg');
+	}
+}
+@media handheld, only screen and (max-width: 1024px) {
+	.div-test-color {
+		background-color: blue;
+	}
+	.xmas-background {
+		background-image: url('../images/xmas/background_1600x1200.jpg');
+	}
+}
+@media handheld, only screen and (max-width: 767px) {
+	.div-test-color {
+		background-color: yellow;
+	}
+	.xmas-background {
+		background-image: url('../images/xmas/background_1024x768.jpg');
+	}
+}
+@media handheld, only screen and (max-width: 600px) {
+	.div-test-color {
+		background-color: gray;
+	}
+	.xmas-background {
+		background-image: url('../images/xmas/background_1024x768.jpg');
+	}
+}
+@media handheld, only screen and (max-width: 500px) {
+	.div-test-color {
+		background-color: white;
+	}
+	.xmas-background {
+		background-image: url('../images/xmas/background_1024x768.jpg');
+	}
+}
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+	.div-test-color {
+		background-color: black;
+	}
+	.xmas-background {
+		background-image: url('../images/xmas/background_1024x768.jpg');
+	}
+}
 
 /********/
 /* Capa */
 /********/
-/* div#capa { */
+/* .xmas-background { */
 /* 	background-image: url('../images/xmas/background_1024x768.jpg'); */
 /* } */
-.xmas-background {
-	background-image: url('../images/xmas/background_1024x768.jpg');
-}
 
 h1.capa-titulo {
 	color: #CCA300;
@@ -90,10 +112,6 @@ p#capa-footer {
 /************/
 /* Produtos */
 /************/
-
-/* div#product { */
-/* 	background-image: url('../images/xmas/background_1024x768.jpg'); */
-/* } */
 div#title {
 	position: relative;
 	width: 33%;
